@@ -2,10 +2,11 @@
 Bem-vindo ao meu repositorio, este contem codigos desenvolvidos durante as atividades do bootcamp.   
   
   
-Conteudo implementados sobre os conceitos de 
+Conteudo implementados sobre os conceitos:  
+  
 -API  
 -Micro Serviços  
--Teste Unitario  
+-Testes Unitario  
 
 
 -Spring Boot  
