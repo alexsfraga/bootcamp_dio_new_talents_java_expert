@@ -49,3 +49,13 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
 [Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
+
+[Verbos Http :]
+
+![verbos http](verbos_http.png)
+
+
+
+[Api Rest - Richardson]
+
+![api rest richardson](api_rest_richardson.png)

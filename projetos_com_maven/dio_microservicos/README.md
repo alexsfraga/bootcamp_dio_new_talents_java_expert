@@ -24,5 +24,7 @@ Referencias de conteudo no github do instrutor Oswaldo Neto:
 
   
 
+Exemplo Estrutura de Micro serviços:
+
 ![Exemplo Estrutura de Micro serviços:](https://github.com/alexsfraga/bootcamp_dio_new_talents_java_expert/blob/main/projetos_com_maven/dio_microservicos/diagrama_microservicos.jpg)
 
