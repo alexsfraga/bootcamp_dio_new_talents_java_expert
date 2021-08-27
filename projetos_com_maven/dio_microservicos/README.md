@@ -21,3 +21,9 @@ Referencias de conteudo no github do instrutor Oswaldo Neto:
 [Spring Cloud Config Server: Step by Step](https://dev.to/markbdsouza/spring-cloud-config-server-step-by-step-14fd)  
 [Elastich Search](https://www.elastic.co/pt/downloads/elasticsearch#ga-release)  
 [Git: Oswaldo Neto](https://github.com/oswaldoneto)  
+
+
+
+Exemplo Estrutura de Micro serviços:
+
+![diagrama_microservicos](C:\DEV_WorkSpace\Rep_IntelliJ\BootcampDioNewTalentsJavaExpert\projetos_com_maven\dio_microservicos\diagrama_microservicos.gif)
