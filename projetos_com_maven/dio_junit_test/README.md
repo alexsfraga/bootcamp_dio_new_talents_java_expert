@@ -13,7 +13,7 @@ Projeto criado com as seguintes ferramentas:
  * mockito-all-version>1.10.19  
   
 Conteudo sobre:  
--Junut  
+-JUnit  
 -Assert / Rule
 -Hamcrest e Matcher  
 -Mock  
