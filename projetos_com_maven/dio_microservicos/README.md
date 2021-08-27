@@ -22,8 +22,7 @@ Referencias de conteudo no github do instrutor Oswaldo Neto:
 [Elastich Search](https://www.elastic.co/pt/downloads/elasticsearch#ga-release)  
 [Git: Oswaldo Neto](https://github.com/oswaldoneto)  
 
+  
 
+![Exemplo Estrutura de Micro serviços:](https://github.com/alexsfraga/bootcamp_dio_new_talents_java_expert/blob/main/projetos_com_maven/dio_microservicos/diagrama_microservicos.jpg)
 
-Exemplo Estrutura de Micro serviços:
-
-![diagrama_microservicos](C:\DEV_WorkSpace\Rep_IntelliJ\BootcampDioNewTalentsJavaExpert\projetos_com_maven\dio_microservicos\diagrama_microservicos.jpg)
