@@ -26,4 +26,4 @@ Referencias de conteudo no github do instrutor Oswaldo Neto:
 
 Exemplo Estrutura de Micro serviços:
 
-![diagrama_microservicos](C:\DEV_WorkSpace\Rep_IntelliJ\BootcampDioNewTalentsJavaExpert\projetos_com_maven\dio_microservicos\diagrama_microservicos.gif)
+![diagrama_microservicos](C:\DEV_WorkSpace\Rep_IntelliJ\BootcampDioNewTalentsJavaExpert\projetos_com_maven\dio_microservicos\diagrama_microservicos.jpg)
