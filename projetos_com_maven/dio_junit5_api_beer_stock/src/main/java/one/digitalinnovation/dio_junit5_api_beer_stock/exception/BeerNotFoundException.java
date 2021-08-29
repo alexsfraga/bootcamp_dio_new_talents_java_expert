@@ -1,4 +1,4 @@
-package one.digitalinnovation.beerstock.exception;
+package one.digitalinnovation.dio_junit5_api_beer_stock.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

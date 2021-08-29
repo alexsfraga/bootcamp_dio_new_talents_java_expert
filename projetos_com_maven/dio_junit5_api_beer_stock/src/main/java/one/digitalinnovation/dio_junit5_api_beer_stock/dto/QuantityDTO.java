@@ -1,4 +1,4 @@
-package one.digitalinnovation.beerstock.dto;
+package one.digitalinnovation.dio_junit5_api_beer_stock.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

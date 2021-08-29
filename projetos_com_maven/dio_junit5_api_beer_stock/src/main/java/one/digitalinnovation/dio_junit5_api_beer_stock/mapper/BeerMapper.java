@@ -1,7 +1,7 @@
-package one.digitalinnovation.beerstock.mapper;
+package one.digitalinnovation.dio_junit5_api_beer_stock.mapper;
 
-import one.digitalinnovation.beerstock.dto.BeerDTO;
-import one.digitalinnovation.beerstock.entity.Beer;
+import one.digitalinnovation.dio_junit5_api_beer_stock.dto.BeerDTO;
+import one.digitalinnovation.dio_junit5_api_beer_stock.entity.Beer;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

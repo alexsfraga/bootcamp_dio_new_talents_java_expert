@@ -1,4 +1,4 @@
-package one.digitalinnovation.beerstock.enums;
+package one.digitalinnovation.dio_junit5_api_beer_stock.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

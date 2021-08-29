@@ -1,10 +1,10 @@
-package one.digitalinnovation.beerstock.dto;
+package one.digitalinnovation.dio_junit5_api_beer_stock.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.beerstock.enums.BeerType;
+import one.digitalinnovation.dio_junit5_api_beer_stock.enums.BeerType;
 
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;

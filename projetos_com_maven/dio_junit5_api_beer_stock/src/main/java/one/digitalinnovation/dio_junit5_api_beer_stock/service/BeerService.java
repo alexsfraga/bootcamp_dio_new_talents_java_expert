@@ -1,13 +1,13 @@
-package one.digitalinnovation.beerstock.service;
+package one.digitalinnovation.dio_junit5_api_beer_stock.service;
 
 import lombok.AllArgsConstructor;
-import one.digitalinnovation.beerstock.dto.BeerDTO;
-import one.digitalinnovation.beerstock.entity.Beer;
-import one.digitalinnovation.beerstock.exception.BeerAlreadyRegisteredException;
-import one.digitalinnovation.beerstock.exception.BeerNotFoundException;
-import one.digitalinnovation.beerstock.exception.BeerStockExceededException;
-import one.digitalinnovation.beerstock.mapper.BeerMapper;
-import one.digitalinnovation.beerstock.repository.BeerRepository;
+import one.digitalinnovation.dio_junit5_api_beer_stock.dto.BeerDTO;
+import one.digitalinnovation.dio_junit5_api_beer_stock.entity.Beer;
+import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerAlreadyRegisteredException;
+import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerNotFoundException;
+import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerStockExceededException;
+import one.digitalinnovation.dio_junit5_api_beer_stock.mapper.BeerMapper;
+import one.digitalinnovation.dio_junit5_api_beer_stock.repository.BeerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
