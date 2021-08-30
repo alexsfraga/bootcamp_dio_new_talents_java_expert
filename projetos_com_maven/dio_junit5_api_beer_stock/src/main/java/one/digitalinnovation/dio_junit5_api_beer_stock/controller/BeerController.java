@@ -47,4 +47,9 @@ public class BeerController implements BeerControllerDocs {
     public BeerDTO increment(@PathVariable Long id, @RequestBody @Valid QuantityDTO quantityDTO) throws BeerNotFoundException, BeerStockExceededException {
         return beerService.increment(id, quantityDTO.getQuantity());
     }
+
+    /*@PutMapping(value="/{id}")
+    public BeerDTO updateById(@PathVariable Long id, @RequestBody @Valid BeerDTO beerDTO) throws BeerNotFoundException {
+        return beerService.updateById(id, beerDTO);
+    }*/
 }
