@@ -6,6 +6,7 @@ import one.digitalinnovation.dio_junit5_api_beer_stock.dto.QuantityDTO;
 import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerAlreadyRegisteredException;
 import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerNotFoundException;
 import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerStockExceededException;
+import one.digitalinnovation.dio_junit5_api_beer_stock.exception.BeerStockInsufficientException;
 import one.digitalinnovation.dio_junit5_api_beer_stock.service.BeerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -48,8 +49,9 @@ public class BeerController implements BeerControllerDocs {
         return beerService.increment(id, quantityDTO.getQuantity());
     }
 
-    /*@PutMapping(value="/{id}")
-    public BeerDTO updateById(@PathVariable Long id, @RequestBody @Valid BeerDTO beerDTO) throws BeerNotFoundException {
-        return beerService.updateById(id, beerDTO);
-    }*/
+    @PatchMapping("/{id}/decrement")
+    public BeerDTO decrement(@PathVariable Long id, @RequestBody @Valid QuantityDTO quantityDTO) throws BeerNotFoundException, BeerStockInsufficientException {
+        return beerService.decrement(id, quantityDTO.getQuantity());
+    }
+
 }
